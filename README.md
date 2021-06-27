@@ -18,13 +18,19 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farhadfarokhseresht&theme=neon-palenight&hide_border=true)
 
+<h3 align="left">my skills:</h3> 
+<h4> web scraping </h4>
+<h4> image processing </h4>
+<h4> natural language processing </h4>
+<h4> data mining </h4>
+<h4> Machine Learning </h4>
+<h4> web scraping </h4>
+<h4> web backend ( django , laravel , mysql ) </h4>
+<h4> data science </h4>
+<h4> Business intelligence (Microsoft Power BI , SQL Server) </h4>
+
+
 <h3 align="left">Languages and Tools:</h3>
-
-
-
-
-
-**Languages and Tools:**  
 
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
