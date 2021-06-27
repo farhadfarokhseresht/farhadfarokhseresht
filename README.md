@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=web+and+Data+science+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Data+science+ML+web+and+developer.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="92" src="https://www.python.org/static/img/python-logo.png" />
