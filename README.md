@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Data+science+,+ML+and+web+developer.++++++++++)](https://git.io/typing-svg)
 
-<p align="center">
-  <img width="92" src="https://www.python.org/static/img/python-logo.png" />
-</p>  
+
 <h2 align="center"> Hello, World! 👋, I'm farhad!</h2>
 
 <h3 align="left">my skills:</h3> 
