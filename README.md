@@ -17,15 +17,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
-<code><img width="40" height="40" src="https://github.com/github/explore/blob/main/topics/kotlin/kotlin.png?raw=true"></code>
-<code><img width="40" height="40" src="https://www.r-project.org/Rlogo.png"/></code>  
-<code><img width="40" height="40" src="https://github.com/github/explore/blob/main/topics/sql/sql.png?raw=true"></code>
-<code><img width="40" height="40" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" ></code>
-<code><img width="40" height="40" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png?raw=true" ></code>
+<code>PYTHON</code>
+<code>PHP</code>
+<code>R</code>
+<code>SQL</code>
+<code>JS</code>
+<code>HTML</code>
+<code>CSS</code>
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=farhadfarokhseresht)
