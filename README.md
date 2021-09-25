@@ -3,7 +3,7 @@
 
 <h2 align="center"> Hello, World! 👋, I'm farhad!</h2>
 
-<h3 align="left">my skills:</h3> 
+<h3 align="left">skills:</h3> 
 <h5> web scraping </h5>
 <h5> image processing </h5>
 <h5> natural language processing </h5>
@@ -28,6 +28,6 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=farhadfarokhseresht)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadfarokhseresht&layout=compact)
