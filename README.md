@@ -4,15 +4,15 @@
 <h2 align="center"> Hello, World! 👋, I'm farhad!</h2>
 
 <h3 align="left">my skills:</h3> 
-<h4> web scraping </h4>
-<h4> image processing </h4>
-<h4> natural language processing </h4>
-<h4> data mining </h4>
-<h4> Machine Learning </h4>
-<h4> web scraping </h4>
-<h4> web backend ( django , laravel , mysql ) </h4>
-<h4> data science </h4>
-<h4> Business intelligence (Microsoft Power BI , SQL Server) </h4>
+<h5> web scraping </h5>
+<h5> image processing </h5>
+<h5> natural language processing </h5>
+<h5> data mining </h5>
+<h5> Machine Learning </h5>
+<h5> web scraping </h5>
+<h5> web backend ( django , laravel , mysql ) </h5>
+<h5> data science </h5>
+<h5> Business intelligence (Microsoft Power BI , SQL Server , ssrs-ssas-ssis) </h5>
 
 
 <h3 align="left">Languages and Tools:</h3>
