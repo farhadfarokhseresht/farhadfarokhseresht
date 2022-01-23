@@ -10,12 +10,12 @@
 <h5> data mining </h5>
 <h5> Machine Learning </h5>
 <h5> web scraping </h5>
-<h5> web backend ( django , laravel , mysql ) </h5>
+<h5> web backend and front </h5>
 <h5> data science </h5>
 <h5> Business intelligence (Microsoft Power BI , SQL Server , ssrs-ssas-ssis) </h5>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages :</h3>
 
 <code>PYTHON</code>
 <code>PHP</code>
